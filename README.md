@@ -18,3 +18,10 @@
 * `valet park`
 * `laravel new blog`
 * Open: [http://blog.test](http://blog.test)
+
+## Potential Admin Dashboards
+
+* [Voyager - The Missing Laravel Admin ](https://laravelvoyager.com/academy/) - Open Source
+* [LaraAdmin - Admin Panel for Laravel](http://laraadmin.com) - Open Source
+* [Backback for Laravel](https://backpackforlaravel.com/) - Free Plan for Non-Commercial else 50 to 300 Euro license.
+* [Nova - Official Laravel Dashboard](https://nova.laravel.com/) - $100 to $200 USD license.
